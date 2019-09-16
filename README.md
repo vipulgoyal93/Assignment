@@ -20,6 +20,8 @@ questions = [
 ]
 
 #standard answer options
+
+
 answers = [
     ["hi", "hello"],
     ["veg","non-veg"],
