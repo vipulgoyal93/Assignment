@@ -1,6 +1,6 @@
 # Assignment
 
-Run server.py and client.py on linux terminal
+Run python3 server.py and python3 client.py commands on different linux terminal window.
 
 Client side:
 1Msg is greeting - Hi / Hello
